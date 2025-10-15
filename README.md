@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @aditya-raj-1710
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Aditya Raj
 
-<!---
-von-Blitz/von-Blitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Backend & Cloud Microservices Developer | Java | Python | Oracle Cloud**
+
+- Software Developer at Oracle Financial Services
+- Building robust backend and microservices (Java, Python, OCI, Kubernetes)
+- Focus: Cloud apps, scalable infra, automation, DSA
+
+## 🛠️ Pinned Projects
+- [Stock Ticker Data Fetcher](https://github.com/aditya-raj-1710/stock-trading-python-app) – Live stock ETL (Python, Snowflake)
+- [Python Practice Modules](https://github.com/aditya-raj-1710/python-practice-modules)
+- [DSA Practice Module](https://github.com/aditya-raj-1710/dsa-practice-module)
+- [My Resume (LaTeX/PDF)](https://github.com/aditya-raj-1710/my-resume)
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/rajaditya1710) · [Email](mailto:rajaditya.1710@gmail.com)
+
+---
+
+*Config files for my GitHub profile. Open to collaboration and backend/cloud roles!*
