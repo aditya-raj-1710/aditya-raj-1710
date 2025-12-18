@@ -17,4 +17,4 @@
 
 ---
 
-*Config files for my GitHub profile. Open to collaboration and backend/cloud roles!*
+*Open to collaboration and backend/cloud roles!*
